@@ -23,6 +23,7 @@
 
 <br>
 
+---
 Sou estudante de **Data Science na FIAP**, com interesse em análise de dados,
 tecnologia e aplicação de dados na tomada de decisões.
 
