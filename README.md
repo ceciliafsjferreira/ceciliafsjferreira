@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./header-cecilia.svg" width="100%">
+
+</div><div align="center">
+
 # 💻 CECÍLIA FERREIRA
 
 ### Data Analyst • Data Science • Python • SQL • Power BI • AWS
