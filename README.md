@@ -17,9 +17,8 @@
 </div>
 
 ---
-<div align="center">
   
-## 👋 Hello, World! Welcome to my GitHub profile.
+<h2 align="center">👋 Hello, World! Welcome to my GitHub profile.</h2>
 
 <br>
 
