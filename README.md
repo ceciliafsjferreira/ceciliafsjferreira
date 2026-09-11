@@ -2,6 +2,11 @@
 
 <img src="./header-cecilia.svg" width="100%">
 
+</div>
+<div align="center">
+
+<img src="./header-cecilia.svg" width="100%">
+
 </div><div align="center">
 
 # 💻 CECÍLIA FERREIRA
