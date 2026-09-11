@@ -1,6 +1,6 @@
 <div align="center">
 
-#  CECÍLIA FERREIRA
+# 💻 CECÍLIA FERREIRA
 
 ### Data Analyst • Data Science • Python • SQL • Power BI • AWS
 
