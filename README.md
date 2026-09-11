@@ -1,8 +1,14 @@
+
 <div align="center">
-  <img src="./header-cecilia.svg" width="100%">
+
+# 👩🏻‍💻 CECÍLIA FERREIRA
+
+### Data Analyst | Python | SQL | Power BI | AWS
+
 </div>
 
-<br>
+
+---
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-FIAP-EC4899?style=for-the-badge&logoColor=white"/>
