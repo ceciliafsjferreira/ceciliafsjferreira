@@ -56,3 +56,22 @@ com foco no aprendizado de programação.
 
 Laboratórios práticos envolvendo AWS, EC2, S3, Linux,
 AWS CLI e serviços de computação em nuvem.
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ceciliafsjferreira&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceciliafsjferreira&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ceciliafsjferreira&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">
+  <b>Always learning. Always building.</b>
+</p>
+
+<p align="center">
+  <b>📊 Transformando dados em insights. Sempre aprendendo, sempre construindo.</b>
+</p>
