@@ -17,15 +17,18 @@
 </div>
 
 ---
-  
+
 <h2 align="center">👋 Hello, World! Welcome to my GitHub profile.</h2>
 
 ---
-Sou estudante de **Data Science na FIAP**, com interesse em análise de dados,
-tecnologia e aplicação de dados na tomada de decisões.
 
-Utilizo este espaço para compartilhar meus **projetos, estudos e experiências
-práticas** na área de dados.
+Sou estudante de **Data Science na FIAP**, com interesse em **análise de dados, tecnologia e aplicação de dados na tomada de decisões**.
+
+Utilizo este espaço para compartilhar meus **projetos, estudos e experiências práticas** na área de dados.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 ```text
 📊 Data Analytics
@@ -36,26 +39,37 @@ práticas** na área de dados.
 🐧 Linux
 🔧 Git & GitHub
 🤖 Machine Learning
+```
 
 ---
 
-## 📂 PROJETOS
+## 📂 Projetos
 
-📊 **Análise de Inadimplência**
+### 📊 Análise de Inadimplência
 
-Projeto de análise exploratória de dados utilizando Python,
-Pandas e visualizações para identificar padrões de risco
-e inadimplência.
+Projeto de **análise exploratória de dados** utilizando Python, Pandas e visualizações para identificar padrões de risco e inadimplência.
 
-🤖 **Chatbot Patty**
+**Tecnologias:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
-Chatbot educacional desenvolvido com Python, Streamlit e API,
-com foco no aprendizado de programação.
+---
 
-☁️ **AWS Re/Start**
+### 🤖 Chatbot Patty
 
-Laboratórios práticos envolvendo AWS, EC2, S3, Linux,
-AWS CLI e serviços de computação em nuvem.
+Chatbot educacional desenvolvido com **Python, Streamlit e API**, com foco no aprendizado de programação.
+
+**Tecnologias:** Python • Streamlit • API • Git
+
+---
+
+### ☁️ AWS Re/Start
+
+Laboratórios práticos envolvendo **AWS, EC2, S3, Linux, AWS CLI** e serviços de computação em nuvem.
+
+**Tecnologias:** AWS • Linux • EC2 • S3 • AWS CLI
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ceciliafsjferreira&theme=github_dark" />
@@ -68,10 +82,22 @@ AWS CLI e serviços de computação em nuvem.
 
 ---
 
-<p align="center">
-  <b>Always learning. Always building.</b>
-</p>
+## 🌸 Atualmente
+
+📚 Estudando **Data Science na FIAP**
+
+📊 Desenvolvendo projetos de **Análise de Dados**
+
+🐍 Aprofundando conhecimentos em **Python e SQL**
+
+☁️ Explorando **Cloud Computing e AWS**
+
+🤖 Estudando conceitos de **Machine Learning**
+
+---
 
 <p align="center">
-  <b>📊 Transformando dados em insights. Sempre aprendendo, sempre construindo.</b>
+  <b>📊 Transformando dados em insights.</b>
+  <br>
+  <b>🌸 Sempre aprendendo. Sempre construindo.</b>
 </p>
