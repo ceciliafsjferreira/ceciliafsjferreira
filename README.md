@@ -1,13 +1,17 @@
-<h1 align="center">🌸 Cecília Ferreira 🌸</h1>
-
 <p align="center">
-  <b>Data Analyst • Data Science • Python • SQL • Power BI • AWS</b>
+  <img src="header.svg" alt="Cecília Ferreira - Data Analyst" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIAP-Data%20Science-ED145B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Re%2FStart-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-An%C3%A1lise%20de%20Dados-6E40C9?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ceciliafsjferreira?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJETOS-f472b6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -24,18 +28,6 @@ Uso este espaço para compartilhar meus projetos, estudos e experiências práti
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,aws,linux,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 | Área | Ferramentas |
@@ -89,18 +81,6 @@ Laboratórios práticos de computação em nuvem com AWS, EC2, S3, Linux e AWS C
 
 ---
 
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <b>📊 Transformando dados em insights. 🌸 Sempre aprendendo, sempre construindo.</b>
 </p>
-
