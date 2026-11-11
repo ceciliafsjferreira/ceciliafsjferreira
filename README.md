@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg(1)" alt="Cecília Ferreira - Data Analyst" width="100%" />
+  <img src="header(1).svg" alt="Cecília Ferreira - Data Analyst" width="100%" />
 </p>
 
 <p align="center">
