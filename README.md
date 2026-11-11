@@ -1,71 +1,78 @@
-<div align="center">
+<h1 align="center">🌸 Cecília Ferreira 🌸</h1>
 
-# 🌸 CECÍLIA FERREIRA 🌸
-
-### Data Analyst • Data Science • Python • SQL • Power BI • AWS
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Science-FIAP-EC4899?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<p align="center">
+  <b>Data Analyst • Data Science • Python • SQL • Power BI • AWS</b>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FIAP-Data%20Science-ED145B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Re%2FStart-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-An%C3%A1lise%20de%20Dados-6E40C9?style=for-the-badge" />
+</p>
 
 ---
 
-<h2 align="center">👋 Hello, World! Welcome to my GitHub profile.</h2>
-
----
+## 👋 Hello, World!
 
 Sou estudante de **Data Science na FIAP**, com interesse em **análise de dados, tecnologia e aplicação de dados na tomada de decisões**.
 
-Utilizo este espaço para compartilhar meus **projetos, estudos e experiências práticas** na área de dados.
+Uso este espaço para compartilhar meus projetos, estudos e experiências práticas na área de dados.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-```text
-📊 Data Analytics
-🐍 Python
-🗄️ SQL
-📈 Power BI
-☁️ AWS
-🐧 Linux
-🔧 Git & GitHub
-🤖 Machine Learning
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,linux,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+| Área | Ferramentas |
+|------|-------------|
+| 📊 **Análise de Dados** | Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI |
+| 🤖 **Machine Learning** | Fundamentos e conceitos (em estudo) |
+| ☁️ **Cloud** | AWS (EC2, S3, AWS CLI), Linux |
+| 🔧 **Versionamento** | Git & GitHub |
 
 ---
 
 ## 📂 Projetos
 
 ### 📊 Análise de Inadimplência
-
-Projeto de **análise exploratória de dados** utilizando Python, Pandas e visualizações para identificar padrões de risco e inadimplência.
+Análise exploratória de dados para identificar padrões de risco e inadimplência.
 
 **Tecnologias:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
----
-
 ### 🤖 Chatbot Patty
-
-Chatbot educacional desenvolvido com **Python, Streamlit e API**, com foco no aprendizado de programação.
+Chatbot educacional com foco no aprendizado de programação.
 
 **Tecnologias:** Python • Streamlit • API • Git
 
----
-
 ### ☁️ AWS Re/Start
-
-Laboratórios práticos envolvendo **AWS, EC2, S3, Linux, AWS CLI** e serviços de computação em nuvem.
+Laboratórios práticos de computação em nuvem com AWS, EC2, S3, Linux e AWS CLI.
 
 **Tecnologias:** AWS • Linux • EC2 • S3 • AWS CLI
+
+---
+
+## 🌱 Atualmente
+
+- 📚 Cursando Data Science na FIAP
+- 📊 Desenvolvendo projetos de Análise de Dados
+- 🐍 Aprofundando meus conhecimentos em Python e SQL
+- ☁️ Explorando Cloud Computing e AWS
+- 🤖 Estudando conceitos de Machine Learning
 
 ---
 
@@ -76,28 +83,24 @@ Laboratórios práticos envolvendo **AWS, EC2, S3, Linux, AWS CLI** e serviços 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceciliafsjferreira&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ceciliafsjferreira&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceciliafsjferreira&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ceciliafsjferreira&theme=github_dark" width="48%" />
 </p>
 
 ---
 
-## 🌸 Atualmente
-
-📚 Estudando **Data Science na FIAP**
-
-📊 Desenvolvendo projetos de **Análise de Dados**
-
-🐍 Aprofundando conhecimentos em **Python e SQL**
-
-☁️ Explorando **Cloud Computing e AWS**
-
-🤖 Estudando conceitos de **Machine Learning**
-
----
+## 📫 Contato
 
 <p align="center">
-  <b>📊 Transformando dados em insights.</b>
-  <br>
-  <b>🌸 Sempre aprendendo. Sempre construindo.</b>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <b>📊 Transformando dados em insights. 🌸 Sempre aprendendo, sempre construindo.</b>
+</p>
+
