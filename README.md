@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ceciliafsjferreira/ceciliafsjferreira/main/header.svg" alt="Cecília Ferreira - Data Analyst" width="100%" />
+  <img src="https://raw.githubusercontent.com/ceciliafsjferreira/ceciliafsjferreira/main/header (1).svg" alt="Cecília Ferreira - Data Analyst" width="100%" />
 </p>
 
 <p align="center">
