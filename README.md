@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="header.svg" alt="Cecília Ferreira - Data Analyst" width="100%" />
+  <img src="header.svg(1)" alt="Cecília Ferreira - Data Analyst" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <a href="https://www.linkedin.com/in/Cecilia-Fabre">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:ceciliafsjferreira@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ceciliafsjferreira?tab=repositories">
