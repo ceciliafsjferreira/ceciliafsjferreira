@@ -84,3 +84,6 @@ Laboratórios práticos de computação em nuvem com AWS, EC2, S3, Linux e AWS C
 <p align="center">
   <b>📊 Transformando dados em insights. 🌸 Sempre aprendendo, sempre construindo.</b>
 </p>
+
+
+
